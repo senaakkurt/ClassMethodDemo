@@ -9,17 +9,17 @@ namespace ClassMethodDemo
             Musteri musteri1 = new Musteri();
             musteri1.Id = 10;
             musteri1.Ad = "Ali";
-            musteri1.Soyad = "Yıldırım";
+            musteri1.Soyad = "Ali";
 
             Musteri musteri2 = new Musteri();
             musteri2.Id = 20;
             musteri2.Ad = "Sevim";
-            musteri2.Soyad = "Bal";
+            musteri2.Soyad = "Sevim";
 
             Musteri musteri3 = new Musteri();
             musteri3.Id = 30;
             musteri3.Ad = "Ahmet";
-            musteri3.Soyad = "Güneş";
+            musteri3.Soyad = "Ahmet";
 
             MusteriManager musteriManager = new MusteriManager();
 
